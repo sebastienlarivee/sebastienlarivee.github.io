@@ -1,2 +1,3 @@
 favicon
 site pages
+do i want an about page?
