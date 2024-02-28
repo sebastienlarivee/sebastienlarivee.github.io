@@ -4,8 +4,6 @@ layout: default
 
 # Projects
 
-quick test
-
 [Ren'py Gamejam](./projects/renpy.html) - Placeholder
 
 [MusicGen Interface](./projects/musicgen-interface.html) - A very good interface for musicgen.
