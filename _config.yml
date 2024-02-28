@@ -15,4 +15,7 @@ plugins:
 collections:
   pages:
     output: true
-    permalink: /:path.html
+    permalink: /:name
+  projects:
+    output: true
+    permalink: /projects/:name

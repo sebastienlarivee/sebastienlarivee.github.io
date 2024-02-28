@@ -1,5 +1,4 @@
 ---
-permalink: /music.html
 layout: default
 ---
 
