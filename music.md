@@ -1,6 +1,6 @@
 ---
-layout: default
 permalink: /music.html
+layout: default
 ---
 
 ## Music
