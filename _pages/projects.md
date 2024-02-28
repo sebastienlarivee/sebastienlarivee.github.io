@@ -4,6 +4,8 @@ layout: default
 
 # Projects
 
+quick test
+
 [MusicGen Interface](./projects/musicgen_interface.html) - A very good interface for musicgen.
 
 [Ambient Archive](./projects/ambient_archive.html) - AI generated ambient music with automated content creation and management.
