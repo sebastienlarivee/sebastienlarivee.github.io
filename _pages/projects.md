@@ -1,9 +1,9 @@
 ---
-layout: default
 permalink: /projects.html
+layout: default
 ---
 
-## Welcome to another page
+## Projects
 
 _yay_
 

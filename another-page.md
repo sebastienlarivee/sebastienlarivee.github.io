@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /test.html
 ---
 
 ## Welcome to another page
