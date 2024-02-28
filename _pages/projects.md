@@ -6,6 +6,8 @@ layout: default
 
 quick test
 
+[Ren'py Gamejam](./projects/renpy.html) - Placeholder
+
 [MusicGen Interface](./projects/musicgen-interface.html) - A very good interface for musicgen.
 
 [Ambient Archive](./projects/ambient-archive.html) - AI generated ambient music with automated content creation and management.
